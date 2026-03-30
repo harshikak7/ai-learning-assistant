@@ -1,0 +1,9 @@
+node_modules/
+.env
+backend/node_modules/
+backend/.env
+frontend/ai-learn-assistant/node_modules/
+uploads/
+dist/
+build/
+*.log
